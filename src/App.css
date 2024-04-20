@@ -1,0 +1,21 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  
+}
+
+.book-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center; /* This centers the content vertically */
+  width: 50%;
+  margin: auto;
+}
+
+.form-input {
+  margin-bottom: 10px;
+  border-radius: 10px;
+  max-width: 300px;
+}

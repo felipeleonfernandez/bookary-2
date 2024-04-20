@@ -1,0 +1,9 @@
+body, html {
+    text-align: center;
+    height: 100%;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    background-color: #FDEDC5;
+    font-family: system-ui;
+}

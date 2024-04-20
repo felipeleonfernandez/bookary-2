@@ -1,0 +1,14 @@
+.book {
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 5px;
+    border: 2px solid #bbb;
+    display: inline-block;
+    padding: 3px;
+    margin: 10px;
+}
+
+.book-info {
+    margin: 8px;
+    align-items: center; /* This centers the content vertically */
+}
